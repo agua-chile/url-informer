@@ -1,10 +1,10 @@
-## CS 460 - Web Assignment 1
+## URL Informer
 
 ### Intro
 
 Hello and welcome to my Web Assignment 1 for CS 460. This is a simple client-server
- program that takes a URL from the client, sends it to the server, and then the server 
- sends back the URL along with the status code, URL headers, and the URL encoding.
+program that takes a URL from the client, sends it to the server, and then the server 
+sends back the URL along with the status code, URL headers, and the URL encoding.
 
 ### Compiling
 
